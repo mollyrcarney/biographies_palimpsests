@@ -3,15 +3,15 @@ This repository holds all data and code for the forthcoming paper "Bulbs and Bio
 
 Additional files include supplemental tables and csv files for visualizations.
 
--supplemental_tables.xlxs
-	-ST1 Recalibrated radiocarbon dates
-	-ST2 Count and weight sample results
-	-ST3 Counts and weights standardized by density
-	-ST4 Spot samples
-	-ST5 Archaeological Upper Columbia River plant taxa
--seeds.csv
--veg.csv
--wood.csv
+* supplemental_tables.xlxs
+	* ST1 Recalibrated radiocarbon dates
+	* ST2 Count and weight sample results
+	* ST3 Counts and weights standardized by density
+	* ST4 Spot samples
+	* ST5 Archaeological Upper Columbia River plant taxa
+* seeds.csv
+* veg.csv
+* wood.csv
 
 ## R code
 ### Packages
