@@ -113,7 +113,7 @@ legend("right", legend = c("Softwood", "Pine family", "Pine genera", "Lodgepole 
        pch=20 , pt.cex = 3, cex = 1 )
 ```
 
-###Supp. Fig. 2
+### Supp. Fig. 2
 ```
 #Supplemental Figure 2, in accessible color palette
 #seed density visualization
